@@ -1,10 +1,8 @@
-#Implemented Features
-HEAD
-## T-04: Admin Management Module
-Implemented Admin login, user role management, systems logs and fleet overview.
+\#Implemented Features
 
-## T-14: Implement User Login Page
-This task involves creating a login form component with email and password fields, including validation and error handling.
-**Status: Implemented**
+Task ID: T-26: Implement Late Returm Free Calculator
 
-main
+Description: This task handles automatic calculation of late return charges when customer wxceed their rental duration
+
+\*\*Status: Implemented\*\*
+
